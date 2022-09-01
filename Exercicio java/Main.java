@@ -19,6 +19,8 @@ public class Main {
       System.out.println("\n Advertencia: " + Gradu.getAdvertencia());
       System.out.println("\n Matéria: " + Gradu.getMateria());
      
+      System.out.println("teste git");
+
      
       System.out.println("\n-------------Aluno pós Graduação--------------- ");
 
