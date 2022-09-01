@@ -20,9 +20,6 @@ public class testeGit extends Empregado{
   public String getGrauQualificacao() {
     return grauQualificacao;
   }
-  public void setGrauQualificacao(String grauQualificacao) {
-    this.grauQualificacao = grauQualificacao;
-  }
 
   
   
